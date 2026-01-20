@@ -14,7 +14,8 @@ This repository contains detailed writeups for various CTF challenges I've compl
 │   ├── [Category]/
 │   │   ├── [Challenge-Name]/
 │   │   │   ├── README.md
-│   │   │   └── files/
+│   │   │   ├── files/
+│   │   │   └── solution/
 ```
 
 ## Categories
@@ -25,7 +26,6 @@ This repository contains detailed writeups for various CTF challenges I've compl
 - **Cryptography** - Breaking encryption and cryptographic challenges
 - **Forensics** - Digital forensics and steganography
 - **Miscellaneous** - Other interesting challenges
-- **IoT & OT** - Internet of Things and Operational Technology
 
 ## CTF Platforms
 
